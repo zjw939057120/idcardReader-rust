@@ -1,0 +1,15 @@
+[package]
+name = "IDCard"
+version = "0.1.0"
+authors = ["zjw939057120 <50167253+zjw939057120@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "1.0.7"
+libloading = "0.5.2"
+encoding = "0.2.33"
+base64 = "0.10.1"
+image = "0.22.2"
+file = "1.1.2"
