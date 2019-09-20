@@ -1,0 +1,4 @@
+*.rs linguist-language=Rust
+*.dll linguist-language=Rust
+*.exe linguist-language=Rust
+*.html linguist-language=Rust
